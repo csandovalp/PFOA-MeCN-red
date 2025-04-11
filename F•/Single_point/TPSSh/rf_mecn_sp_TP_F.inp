@@ -1,0 +1,20 @@
+!TPSSh def2-TZVP d3 TightSCF SlowConv defgrid2
+ 
+%pal
+nprocs 20
+end
+ 
+%scf
+MaxIter 1500
+end
+ 
+%maxcore 4000
+ 
+!CPCM
+%cpcm smd true
+SMDsolvent "ACETONITRILE"
+end
+ 
+* xyz 0 2
+9       0.00     0.00      0.00
+*
