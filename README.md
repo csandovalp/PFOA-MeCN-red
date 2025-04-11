@@ -47,6 +47,4 @@ This directory contains DFT calculations using the SMD solvation model to comput
 ## **Reference to Manuscript**
 - The data presented in this repository is distributed as part of the publication "Electrochemical reduction  of perfluorooctanoic acid (PFOA) in organic media: mechanistic insights and reorganization effects."
 - DOI: (currently under review).
-- Data gathered and prepared by:
-  Rosa. R. Fabela Robledo, PhD Student, The University of Texas at El Paso, El Paso, TX 79968, USA
-  Christian Sandoval-Pauker, Postdoctoral Fellow, Smalley-Curl Institute, Rice University, Houston, TX,77005, USA
+- Data gathered and prepared by: Rosa. R. Fabela Robledo, PhD Student, The University of Texas at El Paso, El Paso, TX 79968, USA; Christian Sandoval-Pauker, Postdoctoral Fellow, Smalley-Curl Institute, Rice University, Houston, TX,77005, USA
